@@ -1,0 +1,8 @@
+print("Gitlab")
+a=20
+b=2
+sum=a+b
+if(sum==22):
+  print("humans are worst")
+else:
+print("humans are good")
