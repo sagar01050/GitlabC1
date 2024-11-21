@@ -7,3 +7,5 @@ total=m1+m2+m3
 per=total/300*100
 print("name is",name)
 print("usn is",usn)
+print("total is",total)
+print("percentage is",per)
