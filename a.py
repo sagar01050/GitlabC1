@@ -20,3 +20,5 @@ for i in range(0,10):
 sum=['thing','rough','good']
 for s in sum:
     print(len(s))
+    
+    
