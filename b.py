@@ -1,1 +1,2 @@
 terwq
+print("lion")
